@@ -22,7 +22,7 @@ const BecomeDriver = () => {
               </button>
               <br />
               <button className="btn rent__car-btn mt-4">
-                Give Your Car on Rent
+                Give your Car on Rent
               </button>
             </Link>
           </Col>
