@@ -97,7 +97,7 @@ const Footer = () => {
                   style={{ color: "black" }}
                 >
                   <i className="ri-copyright-fill"></i>CopyRight {year},
-                  Developed by Raj Akshat & Pandey Vishal. all rights reserved
+                  Developed by Raj Akshat . all rights reserved
                 </p>
               </div>
             </Col>

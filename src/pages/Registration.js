@@ -294,7 +294,7 @@ const Registration = () => {
             </button>
             <Link to="/">
               <button type="submit" className="btn btn-danger m-3">
-                Cancle
+                cancel
               </button>
             </Link>
           </div>
